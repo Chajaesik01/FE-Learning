@@ -1,6 +1,8 @@
 # React 학습
 
-### [React 공식 문서](https://ko.react.dev/learn)를 참고하여 React에 대한 학습을 진행합니다. 
+### React [React 공식 문서](https://ko.react.dev/learn)를 참고하여 React에 대한 학습을 진행합니다. 
+
+### Typescript
 
 # 참고 블로그
 
