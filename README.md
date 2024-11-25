@@ -2,8 +2,8 @@
 
 ### React [React 공식 문서](https://ko.react.dev/learn)를 참고하여 React에 대한 학습을 진행합니다. 
 
-### Redux 학습
-### REdux [Redux 공식 문서](https://ko.redux.js.org/)
+# Redux 학습
+### Redux [Redux 공식 문서](https://ko.redux.js.org/)를 참고하여 REdux에 대한 학습을 진행합니다.
 
 # 참고 블로그
 
