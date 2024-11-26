@@ -3,7 +3,7 @@
 https://vitamin3000.tistory.com/136
 
  
-
+![](./image2-1.png)
 
 ### 폴더 및 파일 구조
 - /public : HTML 호스트 페이지 템플릿 및 아이콘과 같은 기타 정적 파일
@@ -120,7 +120,7 @@ export default postsSlice.reducer
 ### 어라? 
 ### push를 쓰면 원본의 값도 바뀌는데? 를 생각했었는데 홈페이지의 작성된 내용은 다음과 같다.
 
- 
+ ![](./image2-2.png)
 
 ### 어째서.. 안전하다고 하는거지? 난 Immer를 사용하겠다. push 사용안해!
  
